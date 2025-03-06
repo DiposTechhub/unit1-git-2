@@ -1,0 +1,105 @@
+### Step 2A
+C
+/Users/dipotechhub
+
+### Step 2B
+Cd desktop
+
+
+### Step 2C
+ cd "unit1-git-practice"
+
+### Step 2D
+
+dipotechhub@Dipos-MacBook-Pro unit1-git-practice % users/dipotechhub/desktop/unit1-git-practice
+zsh: no such file or directory: users/dipotechhub/desktop/unit1-git-practice
+### Step 2E
+Ls
+
+### Step 2F
+
+
+### Step 2G
+Cd
+
+### Step 2H
+/Users/dipotechhub/desktop/unit1-git-practice
+
+### Step 2I
+Desktop			Library			Pictures
+Documents		Movies			Public
+Downloads		Music			tutorialdojo.text
+### Step 2J
+Cd
+
+### Step 2K
+
+Cd desktop
+Cd "unit1-git-pracitce"
+
+### Step 3A
+mkdir "Veggies"
+ mkdir "Meats"
+ mkdir "Desserts"
+
+### Step 3B
+
+mv Desserts Sweets
+### Step 3C
+
+Mkdir protein
+### Step 3D
+Mv meats protein
+
+### Step 3E
+Cd "veggies"
+Mkdir carrot.txt
+Mkdir peas.txt
+
+### Step 3F
+cd desktop
+ desktop % cd "unit1-git-practice"
+dipotechhub@Dipos-MacBook-Pro unit1-git-practice % cd "Sweets"
+dipotechhub@Dipos-MacBook-Pro Sweets % touch "cookie.txt"
+### Step 3G
+touch "Cookie.txt"
+mv Cookie.txt donut.txt
+
+### Step 3H
+Cd desktop- init1
+Mkdir thing.txt
+
+
+### Step 3I
+Cp-r thing.txt tofu.txt
+
+### Step 3J
+Mv tofu.txt Protein
+
+### Step 3K
+Cp thing.txt crab.txt
+
+### Step 3L
+
+Rm -r thing.txt
+### Step 3M
+
+Move veggies plants
+### Step 3N
+
+Mkdir drinks
+Rm -r drinks
+### Step 4
+
+Cd desktop "unit1-git-practice
+Git init
+Git add .
+Git commit -m 'first commit'
+### Step 5
+Git 
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
