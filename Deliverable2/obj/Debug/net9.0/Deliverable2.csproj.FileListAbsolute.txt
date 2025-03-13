@@ -1,0 +1,14 @@
+/Users/dipotechhub/RiderProjects/Deliverable2/bin/Debug/net9.0/Deliverable2
+/Users/dipotechhub/RiderProjects/Deliverable2/bin/Debug/net9.0/Deliverable2.deps.json
+/Users/dipotechhub/RiderProjects/Deliverable2/bin/Debug/net9.0/Deliverable2.runtimeconfig.json
+/Users/dipotechhub/RiderProjects/Deliverable2/bin/Debug/net9.0/Deliverable2.dll
+/Users/dipotechhub/RiderProjects/Deliverable2/bin/Debug/net9.0/Deliverable2.pdb
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.AssemblyInfo.cs
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.dll
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/refint/Deliverable2.dll
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.pdb
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/Deliverable2.genruntimeconfig.cache
+/Users/dipotechhub/RiderProjects/Deliverable2/obj/Debug/net9.0/ref/Deliverable2.dll
